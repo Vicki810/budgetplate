@@ -1,0 +1,1861 @@
+{
+  "description": "Curated everyday grocery names, not a measured ranking of search popularity.",
+  "nutritionPolicy": "Each choice maps to one unchanged USDA reference; substitutions and edible-yield assumptions are disclosed in source details.",
+  "choices": [
+    {
+      "id": "lean-ground-beef",
+      "name": "Lean ground beef",
+      "fdcId": "171796",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "ground beef",
+        "minced beef",
+        "beef mince",
+        "hamburger meat"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative raw ground-beef reference with 15% fat. Canadian categories specify maximum fat, not one exact composition: extra-lean 10%, lean 17%, medium 23%, regular 30%. Your package may differ.",
+      "categorySourceUrl": "https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products"
+    },
+    {
+      "id": "extra-lean-ground-beef",
+      "name": "Extra-lean ground beef",
+      "fdcId": "174030",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "extra lean beef",
+        "ground beef",
+        "minced beef"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative raw ground-beef reference with 10% fat. Canadian categories specify maximum fat, not one exact composition: extra-lean 10%, lean 17%, medium 23%, regular 30%. Your package may differ.",
+      "categorySourceUrl": "https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products"
+    },
+    {
+      "id": "medium-ground-beef",
+      "name": "Medium ground beef",
+      "fdcId": "174036",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "ground beef",
+        "beef mince"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative raw ground-beef reference with 20% fat. Canadian categories specify maximum fat, not one exact composition: extra-lean 10%, lean 17%, medium 23%, regular 30%. Your package may differ.",
+      "categorySourceUrl": "https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products"
+    },
+    {
+      "id": "regular-ground-beef",
+      "name": "Regular ground beef",
+      "fdcId": "168652",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "ground beef",
+        "hamburger meat"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative raw ground-beef reference with 30% fat. Canadian categories specify maximum fat, not one exact composition: extra-lean 10%, lean 17%, medium 23%, regular 30%. Your package may differ.",
+      "categorySourceUrl": "https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products"
+    },
+    {
+      "id": "beef-shank",
+      "name": "Beef shank",
+      "fdcId": "169441",
+      "category": "Meat & poultry",
+      "form": "Raw · bone-in",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "shank",
+        "soup beef",
+        "beef soup bones"
+      ],
+      "referenceNote": "Uses USDA raw shank crosscuts, lean meat only. Bone and trimmed fat are excluded from nutrition and edible weight; marrow is not modeled."
+    },
+    {
+      "id": "stewing-beef",
+      "name": "Stewing beef",
+      "fdcId": "171206",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "beef stew",
+        "beef cubes",
+        "diced beef"
+      ],
+      "referenceNote": "Uses raw chuck for stew, lean and fat, all grades."
+    },
+    {
+      "id": "sirloin-steak",
+      "name": "Sirloin steak",
+      "fdcId": "168726",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "beef steak",
+        "top sirloin",
+        "beef strips",
+        "stir fry beef"
+      ],
+      "referenceNote": "Representative steak reference: raw top sirloin, lean and fat, all grades. Other steak cuts can differ."
+    },
+    {
+      "id": "ribeye-steak",
+      "name": "Ribeye steak",
+      "fdcId": "173402",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "beef steak",
+        "rib eye"
+      ],
+      "referenceNote": "Uses raw boneless ribeye, lean and fat, all grades."
+    },
+    {
+      "id": "beef-roast",
+      "name": "Beef roast",
+      "fdcId": "168660",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chuck roast",
+        "pot roast"
+      ],
+      "referenceNote": "Representative raw boneless chuck-eye roast, lean and fat, all grades."
+    },
+    {
+      "id": "chicken-breast",
+      "name": "Chicken breast",
+      "fdcId": "171077",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless, skinless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chicken breasts",
+        "chicken fillet"
+      ]
+    },
+    {
+      "id": "chicken-thighs",
+      "name": "Chicken thighs",
+      "fdcId": "173627",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless, skinless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chicken thigh",
+        "dark meat"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes boneless, skinless thighs: all pack weight is edible. Use another entry for bone-in thighs."
+    },
+    {
+      "id": "bone-in-chicken-thighs",
+      "name": "Bone-in chicken thighs",
+      "fdcId": "172385",
+      "category": "Meat & poultry",
+      "form": "Raw · bone-in, skin-on",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chicken thighs with skin"
+      ],
+      "ediblePercent": 75,
+      "yieldNote": "App estimate: 75% edible after removing bones. Adjust for your pack.",
+      "referenceNote": "Uses raw thigh meat and skin. Bone allowance is an editable app estimate, not a measured yield for your pack."
+    },
+    {
+      "id": "chicken-wings",
+      "name": "Chicken wings",
+      "fdcId": "172390",
+      "category": "Meat & poultry",
+      "form": "Raw · bone-in, skin-on",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "wing",
+        "wings"
+      ]
+    },
+    {
+      "id": "chicken-drumsticks",
+      "name": "Chicken drumsticks",
+      "fdcId": "172373",
+      "category": "Meat & poultry",
+      "form": "Raw · bone-in, skin-on",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chicken legs",
+        "drumstick"
+      ],
+      "ediblePercent": 70,
+      "yieldNote": "App estimate: 70% edible after removing bones. Adjust for your pack.",
+      "referenceNote": "Uses raw drumstick meat and skin. Bone allowance is an editable app estimate, not a measured yield for your pack."
+    },
+    {
+      "id": "whole-chicken",
+      "name": "Whole chicken",
+      "fdcId": "171447",
+      "category": "Meat & poultry",
+      "form": "Raw · bone-in, skin-on",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "roasting chicken"
+      ]
+    },
+    {
+      "id": "ground-chicken",
+      "name": "Ground chicken",
+      "fdcId": "171116",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chicken mince",
+        "minced chicken"
+      ]
+    },
+    {
+      "id": "ground-turkey",
+      "name": "Ground turkey",
+      "fdcId": "171505",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "turkey mince",
+        "minced turkey"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "turkey-breast",
+      "name": "Turkey breast",
+      "fdcId": "171098",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless, skinless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "turkey fillet"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes boneless, skinless breast."
+    },
+    {
+      "id": "pork-chops",
+      "name": "Pork chops",
+      "fdcId": "167839",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless",
+      "dietProfile": "pork",
+      "foodGroup": "Protein",
+      "aliases": [
+        "pork chop",
+        "pork loin chops"
+      ]
+    },
+    {
+      "id": "pork-shoulder",
+      "name": "Pork shoulder",
+      "fdcId": "167843",
+      "category": "Meat & poultry",
+      "form": "Raw · bone-in",
+      "dietProfile": "pork",
+      "foodGroup": "Protein",
+      "aliases": [
+        "pork roast",
+        "pulled pork meat"
+      ]
+    },
+    {
+      "id": "pork-tenderloin",
+      "name": "Pork tenderloin",
+      "fdcId": "168312",
+      "category": "Meat & poultry",
+      "form": "Raw · boneless",
+      "dietProfile": "pork",
+      "foodGroup": "Protein",
+      "aliases": [
+        "pork fillet"
+      ]
+    },
+    {
+      "id": "ground-pork",
+      "name": "Ground pork",
+      "fdcId": "167902",
+      "category": "Meat & poultry",
+      "form": "Raw",
+      "dietProfile": "pork",
+      "foodGroup": "Protein",
+      "aliases": [
+        "pork mince",
+        "minced pork"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "salmon-fillet",
+      "name": "Salmon fillet",
+      "fdcId": "175167",
+      "category": "Fish & seafood",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "salmon",
+        "fresh salmon",
+        "frozen salmon",
+        "fish"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses raw farmed Atlantic salmon as a representative nutrition reference for unspecified salmon. Species and farming method affect nutrition. Fillet and steak share the same edible-flesh reference; the bone allowance differs.",
+      "yieldNote": "Assumes a boneless fillet with all flesh and skin eaten. Adjust if you discard skin."
+    },
+    {
+      "id": "salmon-steak",
+      "name": "Salmon steak",
+      "fdcId": "175167",
+      "category": "Fish & seafood",
+      "form": "Raw · bone-in",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "salmon",
+        "fresh salmon",
+        "frozen salmon",
+        "fish"
+      ],
+      "ediblePercent": 85,
+      "referenceNote": "Uses raw farmed Atlantic salmon as a representative nutrition reference for unspecified salmon. Species and farming method affect nutrition. Fillet and steak share the same edible-flesh reference; the bone allowance differs.",
+      "yieldNote": "App estimate: 85% edible after removing the central bone. Adjust for your steak; this is not a USDA steak-specific yield."
+    },
+    {
+      "id": "smoked-salmon",
+      "name": "Smoked salmon",
+      "fdcId": "171985",
+      "category": "Fish & seafood",
+      "form": "Ready to eat",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "salmon",
+        "lox"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses a generic smoked salmon (lox) reference. Salt and preparation vary by brand."
+    },
+    {
+      "id": "canned-salmon",
+      "name": "Canned salmon",
+      "fdcId": "173690",
+      "category": "Fish & seafood",
+      "form": "Canned · contents as sold",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "salmon tin",
+        "tinned salmon"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses canned pink salmon, total contents, including edible bones."
+    },
+    {
+      "id": "canned-tuna",
+      "name": "Canned tuna",
+      "fdcId": "173709",
+      "category": "Fish & seafood",
+      "form": "Canned · drained",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "tuna",
+        "tinned tuna",
+        "tuna in water"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "Enter the drained weight shown on the can, not the weight including water."
+    },
+    {
+      "id": "cod-fillet",
+      "name": "Cod fillet",
+      "fdcId": "171955",
+      "category": "Fish & seafood",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "fish",
+        "fish fillet",
+        "Cod"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes a boneless fillet. Adjust if you discard skin.",
+      "referenceNote": "Representative raw fish reference. See the full USDA description for the species used."
+    },
+    {
+      "id": "haddock-fillet",
+      "name": "Haddock fillet",
+      "fdcId": "171964",
+      "category": "Fish & seafood",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "fish",
+        "fish fillet",
+        "Haddock"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes a boneless fillet. Adjust if you discard skin.",
+      "referenceNote": "Representative raw fish reference. See the full USDA description for the species used."
+    },
+    {
+      "id": "tilapia-fillet",
+      "name": "Tilapia fillet",
+      "fdcId": "175176",
+      "category": "Fish & seafood",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "fish",
+        "fish fillet",
+        "Tilapia"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes a boneless fillet. Adjust if you discard skin.",
+      "referenceNote": "Representative raw fish reference. See the full USDA description for the species used."
+    },
+    {
+      "id": "trout-fillet",
+      "name": "Trout fillet",
+      "fdcId": "173717",
+      "category": "Fish & seafood",
+      "form": "Raw · boneless",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "fish",
+        "fish fillet",
+        "Trout"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes a boneless fillet. Adjust if you discard skin.",
+      "referenceNote": "Representative raw fish reference. See the full USDA description for the species used."
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp",
+      "fdcId": "174210",
+      "category": "Fish & seafood",
+      "form": "Raw · peeled",
+      "dietProfile": "meat",
+      "foodGroup": "Protein",
+      "aliases": [
+        "prawns",
+        "peeled shrimp",
+        "frozen shrimp"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes peeled shrimp. Shell-on shrimp need a lower edible percentage."
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "fdcId": "171287",
+      "category": "Dairy & eggs",
+      "form": "Raw · in shell",
+      "dietProfile": "eggs",
+      "foodGroup": "Protein",
+      "aliases": [
+        "egg",
+        "large eggs"
+      ],
+      "referenceNote": "Uses raw whole egg. Shells are excluded from edible weight."
+    },
+    {
+      "id": "egg-whites",
+      "name": "Egg whites",
+      "fdcId": "172183",
+      "category": "Dairy & eggs",
+      "form": "Raw · liquid",
+      "dietProfile": "eggs",
+      "foodGroup": "Protein",
+      "aliases": [
+        "liquid egg whites"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "2%-milk",
+      "name": "2% milk",
+      "fdcId": "171267",
+      "category": "Dairy & eggs",
+      "form": "Ready to drink",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "milk",
+        "dairy",
+        ""
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses a generic fortified fluid-milk reference. Use pack weight in grams; the form does not convert litres automatically."
+    },
+    {
+      "id": "1%-milk",
+      "name": "1% milk",
+      "fdcId": "170872",
+      "category": "Dairy & eggs",
+      "form": "Ready to drink",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "milk",
+        "dairy",
+        ""
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses a generic fortified fluid-milk reference. Use pack weight in grams; the form does not convert litres automatically."
+    },
+    {
+      "id": "whole-milk",
+      "name": "Whole milk",
+      "fdcId": "171265",
+      "category": "Dairy & eggs",
+      "form": "Ready to drink",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "milk",
+        "dairy",
+        "3.25% milk"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses a generic fortified fluid-milk reference. Use pack weight in grams; the form does not convert litres automatically."
+    },
+    {
+      "id": "skim-milk",
+      "name": "Skim milk",
+      "fdcId": "171269",
+      "category": "Dairy & eggs",
+      "form": "Ready to drink",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "milk",
+        "dairy",
+        ""
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses a generic fortified fluid-milk reference. Use pack weight in grams; the form does not convert litres automatically."
+    },
+    {
+      "id": "plain-yogurt",
+      "name": "Plain yogurt",
+      "fdcId": "170886",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "yoghurt",
+        "yogurt"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "greek-yogurt",
+      "name": "Greek yogurt",
+      "fdcId": "170903",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "greek yoghurt",
+        "yogurt"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "cheddar-cheese",
+      "name": "Cheddar cheese",
+      "fdcId": "173414",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "cheese",
+        "block cheese"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "mozzarella-cheese",
+      "name": "Mozzarella cheese",
+      "fdcId": "170846",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "cheese",
+        "pizza cheese"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "cottage-cheese",
+      "name": "Cottage cheese",
+      "fdcId": "172182",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "cheese"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "feta-cheese",
+      "name": "Feta cheese",
+      "fdcId": "173420",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "cheese"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "parmesan-cheese",
+      "name": "Parmesan cheese",
+      "fdcId": "171247",
+      "category": "Dairy & eggs",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Protein",
+      "aliases": [
+        "cheese",
+        "grated parmesan"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Representative plain product. Fat, salt and fortification can vary by brand; the exact reference is listed below."
+    },
+    {
+      "id": "butter",
+      "name": "Butter",
+      "fdcId": "173410",
+      "category": "Pantry",
+      "form": "Ready to use",
+      "dietProfile": "dairy",
+      "foodGroup": "Other",
+      "aliases": [
+        "salted butter"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "whipping-cream",
+      "name": "Whipping cream",
+      "fdcId": "170859",
+      "category": "Dairy & eggs",
+      "form": "Ready to use",
+      "dietProfile": "dairy",
+      "foodGroup": "Other",
+      "aliases": [
+        "heavy cream",
+        "cream"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "firm-tofu",
+      "name": "Firm tofu",
+      "fdcId": "172448",
+      "category": "Plant proteins",
+      "form": "Ready to use",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "tofu",
+        "bean curd"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses calcium-set tofu. Calcium varies with the coagulant and brand."
+    },
+    {
+      "id": "soft-tofu",
+      "name": "Soft tofu",
+      "fdcId": "172449",
+      "category": "Plant proteins",
+      "form": "Ready to use",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "tofu",
+        "silken tofu",
+        "bean curd"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses calcium-set tofu. Calcium varies with the coagulant and brand."
+    },
+    {
+      "id": "edamame",
+      "name": "Edamame",
+      "fdcId": "168410",
+      "category": "Plant proteins",
+      "form": "Frozen · shelled",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "soybeans",
+        "soya beans"
+      ],
+      "ediblePercent": 100,
+      "yieldNote": "Assumes shelled edamame; pods are not included in pack weight."
+    },
+    {
+      "id": "dried-lentils",
+      "name": "Dried lentils",
+      "fdcId": "172420",
+      "category": "Plant proteins",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "lentils",
+        "green lentils",
+        "brown lentils"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "",
+      "referenceNote": ""
+    },
+    {
+      "id": "red-lentils",
+      "name": "Red lentils",
+      "fdcId": "174284",
+      "category": "Plant proteins",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "lentils",
+        "split red lentils"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "",
+      "referenceNote": ""
+    },
+    {
+      "id": "dried-chickpeas",
+      "name": "Dried chickpeas",
+      "fdcId": "173756",
+      "category": "Plant proteins",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chickpeas",
+        "garbanzo beans"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "",
+      "referenceNote": ""
+    },
+    {
+      "id": "canned-chickpeas",
+      "name": "Canned chickpeas",
+      "fdcId": "173800",
+      "category": "Plant proteins",
+      "form": "Canned · drained",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chickpeas",
+        "garbanzo beans"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "Enter the drained weight shown on the can, not the weight including water.",
+      "referenceNote": ""
+    },
+    {
+      "id": "dried-black-beans",
+      "name": "Dried black beans",
+      "fdcId": "173734",
+      "category": "Plant proteins",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "black beans"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "",
+      "referenceNote": ""
+    },
+    {
+      "id": "canned-black-beans",
+      "name": "Canned black beans",
+      "fdcId": "175238",
+      "category": "Plant proteins",
+      "form": "Canned · contents as sold",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "black beans"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "",
+      "referenceNote": "Generic reference; canned black beans use a low-sodium record, while other canned products may differ in salt."
+    },
+    {
+      "id": "dried-kidney-beans",
+      "name": "Dried kidney beans",
+      "fdcId": "173744",
+      "category": "Plant proteins",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "kidney beans",
+        "red beans"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "",
+      "referenceNote": ""
+    },
+    {
+      "id": "canned-kidney-beans",
+      "name": "Canned kidney beans",
+      "fdcId": "174285",
+      "category": "Plant proteins",
+      "form": "Canned · drained",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "kidney beans",
+        "red beans"
+      ],
+      "ediblePercent": 100,
+      "packageNote": "Enter the drained weight shown on the can, not the weight including water.",
+      "referenceNote": ""
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "fdcId": "174289",
+      "category": "Plant proteins",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chickpea dip"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "peanut-butter",
+      "name": "Peanut butter",
+      "fdcId": "174266",
+      "category": "Plant proteins",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "pb",
+        "peanut spread"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "peanuts",
+      "name": "Peanuts",
+      "fdcId": "173806",
+      "category": "Nuts & seeds",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "roasted peanuts"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "almonds",
+      "name": "Almonds",
+      "fdcId": "170567",
+      "category": "Nuts & seeds",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "almond"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "walnuts",
+      "name": "Walnuts",
+      "fdcId": "170187",
+      "category": "Nuts & seeds",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "walnut"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "cashews",
+      "name": "Cashews",
+      "fdcId": "170162",
+      "category": "Nuts & seeds",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "cashew nuts"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "sunflower-seeds",
+      "name": "Sunflower seeds",
+      "fdcId": "170562",
+      "category": "Nuts & seeds",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "sunflower kernels"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "chia-seeds",
+      "name": "Chia seeds",
+      "fdcId": "170554",
+      "category": "Nuts & seeds",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "chia"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "soy-milk",
+      "name": "Soy milk",
+      "fdcId": "172456",
+      "category": "Plant proteins",
+      "form": "Ready to drink",
+      "dietProfile": "vegan",
+      "foodGroup": "Protein",
+      "aliases": [
+        "soymilk",
+        "soya milk",
+        "plant milk"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses a fortified original/vanilla soy drink. Fortification and added sugar vary by brand."
+    },
+    {
+      "id": "almond-milk",
+      "name": "Almond milk",
+      "fdcId": "174832",
+      "category": "Pantry",
+      "form": "Ready to drink",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "almond drink",
+        "plant milk"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses unsweetened shelf-stable almond drink."
+    },
+    {
+      "id": "white-rice",
+      "name": "White rice",
+      "fdcId": "168877",
+      "category": "Grains & bread",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "rice",
+        "long grain rice",
+        "basmati rice",
+        "jasmine rice"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Uses regular enriched long-grain white rice as a generic reference. Basmati and jasmine can differ."
+    },
+    {
+      "id": "brown-rice",
+      "name": "Brown rice",
+      "fdcId": "169703",
+      "category": "Grains & bread",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Wholegrain",
+      "aliases": [
+        "rice",
+        "wholegrain rice"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": ""
+    },
+    {
+      "id": "rolled-oats",
+      "name": "Rolled oats",
+      "fdcId": "173904",
+      "category": "Grains & bread",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Wholegrain",
+      "aliases": [
+        "oats",
+        "oatmeal",
+        "porridge"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": ""
+    },
+    {
+      "id": "pasta",
+      "name": "Pasta",
+      "fdcId": "169736",
+      "category": "Grains & bread",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "spaghetti",
+        "macaroni",
+        "penne",
+        "noodles"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": ""
+    },
+    {
+      "id": "all-purpose-flour",
+      "name": "All-purpose flour",
+      "fdcId": "168936",
+      "category": "Grains & bread",
+      "form": "Dry",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "flour",
+        "plain flour",
+        "wheat flour"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": ""
+    },
+    {
+      "id": "white-bread",
+      "name": "White bread",
+      "fdcId": "174924",
+      "category": "Grains & bread",
+      "form": "Ready to use",
+      "dietProfile": "unknown",
+      "foodGroup": "Other",
+      "aliases": [
+        "bread",
+        "toast"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic bread or wrap reference. Check your package for milk, eggs or animal fats before choosing a dietary profile."
+    },
+    {
+      "id": "whole-wheat-bread",
+      "name": "Whole-wheat bread",
+      "fdcId": "172688",
+      "category": "Grains & bread",
+      "form": "Ready to use",
+      "dietProfile": "unknown",
+      "foodGroup": "Wholegrain",
+      "aliases": [
+        "bread",
+        "wholemeal bread",
+        "brown bread"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic bread or wrap reference. Check your package for milk, eggs or animal fats before choosing a dietary profile."
+    },
+    {
+      "id": "pita-bread",
+      "name": "Pita bread",
+      "fdcId": "174915",
+      "category": "Grains & bread",
+      "form": "Ready to use",
+      "dietProfile": "unknown",
+      "foodGroup": "Other",
+      "aliases": [
+        "pita",
+        "flatbread"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic bread or wrap reference. Check your package for milk, eggs or animal fats before choosing a dietary profile."
+    },
+    {
+      "id": "flour-tortillas",
+      "name": "Flour tortillas",
+      "fdcId": "167535",
+      "category": "Grains & bread",
+      "form": "Ready to use",
+      "dietProfile": "unknown",
+      "foodGroup": "Other",
+      "aliases": [
+        "wraps",
+        "tortilla",
+        "flour wraps"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic bread or wrap reference. Check your package for milk, eggs or animal fats before choosing a dietary profile."
+    },
+    {
+      "id": "corn-tortillas",
+      "name": "Corn tortillas",
+      "fdcId": "175036",
+      "category": "Grains & bread",
+      "form": "Ready to use",
+      "dietProfile": "unknown",
+      "foodGroup": "Other",
+      "aliases": [
+        "tortilla",
+        "corn wraps"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic bread or wrap reference. Check your package for milk, eggs or animal fats before choosing a dietary profile."
+    },
+    {
+      "id": "apples",
+      "name": "Apples",
+      "fdcId": "171688",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "apple"
+      ]
+    },
+    {
+      "id": "bananas",
+      "name": "Bananas",
+      "fdcId": "173944",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "banana"
+      ]
+    },
+    {
+      "id": "oranges",
+      "name": "Oranges",
+      "fdcId": "169097",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "orange"
+      ]
+    },
+    {
+      "id": "grapes",
+      "name": "Grapes",
+      "fdcId": "174683",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "grape",
+        "green grapes",
+        "red grapes"
+      ]
+    },
+    {
+      "id": "strawberries",
+      "name": "Strawberries",
+      "fdcId": "167762",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "strawberry",
+        "berries"
+      ]
+    },
+    {
+      "id": "blueberries",
+      "name": "Blueberries",
+      "fdcId": "171711",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "blueberry",
+        "berries"
+      ]
+    },
+    {
+      "id": "raspberries",
+      "name": "Raspberries",
+      "fdcId": "167755",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "raspberry",
+        "berries"
+      ]
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "fdcId": "169910",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "mangoes",
+        "mangos"
+      ]
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "fdcId": "169124",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "pineapples"
+      ]
+    },
+    {
+      "id": "peaches",
+      "name": "Peaches",
+      "fdcId": "169928",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "peach"
+      ]
+    },
+    {
+      "id": "pears",
+      "name": "Pears",
+      "fdcId": "169118",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "pear"
+      ]
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon",
+      "fdcId": "167765",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "melon"
+      ]
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "fdcId": "171705",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "avocados"
+      ]
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "fdcId": "167746",
+      "category": "Fruit",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "lemons"
+      ]
+    },
+    {
+      "id": "frozen-strawberries",
+      "name": "Frozen strawberries",
+      "fdcId": "168173",
+      "category": "Fruit",
+      "form": "Frozen · unsweetened",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "frozen berries",
+        "strawberries"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "frozen-blueberries",
+      "name": "Frozen blueberries",
+      "fdcId": "173950",
+      "category": "Fruit",
+      "form": "Frozen · unsweetened",
+      "dietProfile": "vegan",
+      "foodGroup": "Fruit",
+      "aliases": [
+        "frozen berries",
+        "blueberries"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "fdcId": "170379",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "broccoli florets"
+      ]
+    },
+    {
+      "id": "carrots",
+      "name": "Carrots",
+      "fdcId": "170393",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "carrot"
+      ]
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "fdcId": "168462",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "baby spinach"
+      ]
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "fdcId": "168421",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": []
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "fdcId": "169975",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "green cabbage"
+      ]
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "fdcId": "169986",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": []
+    },
+    {
+      "id": "romaine-lettuce",
+      "name": "Romaine lettuce",
+      "fdcId": "169247",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "lettuce",
+        "salad leaves"
+      ]
+    },
+    {
+      "id": "iceberg-lettuce",
+      "name": "Iceberg lettuce",
+      "fdcId": "169248",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "lettuce"
+      ]
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "fdcId": "168409",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "cucumbers"
+      ]
+    },
+    {
+      "id": "tomatoes",
+      "name": "Tomatoes",
+      "fdcId": "170457",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "tomato"
+      ]
+    },
+    {
+      "id": "onions",
+      "name": "Onions",
+      "fdcId": "170000",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "onion",
+        "yellow onion"
+      ]
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "fdcId": "169230",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "garlic cloves"
+      ]
+    },
+    {
+      "id": "red-bell-peppers",
+      "name": "Red bell peppers",
+      "fdcId": "170108",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "peppers",
+        "bell pepper",
+        "capsicum"
+      ]
+    },
+    {
+      "id": "green-bell-peppers",
+      "name": "Green bell peppers",
+      "fdcId": "170427",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "peppers",
+        "bell pepper",
+        "capsicum"
+      ]
+    },
+    {
+      "id": "mushrooms",
+      "name": "Mushrooms",
+      "fdcId": "169251",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "white mushrooms",
+        "button mushrooms"
+      ]
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "fdcId": "169291",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "courgette"
+      ]
+    },
+    {
+      "id": "green-beans",
+      "name": "Green beans",
+      "fdcId": "169961",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "beans",
+        "string beans"
+      ]
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "fdcId": "169988",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": []
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant",
+      "fdcId": "169228",
+      "category": "Vegetables",
+      "form": "Fresh",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "aubergine"
+      ]
+    },
+    {
+      "id": "potatoes",
+      "name": "Potatoes",
+      "fdcId": "170026",
+      "category": "Vegetables",
+      "form": "Raw",
+      "dietProfile": "vegan",
+      "foodGroup": "Starchy",
+      "aliases": [
+        "potato",
+        "white potatoes"
+      ]
+    },
+    {
+      "id": "sweet-potatoes",
+      "name": "Sweet potatoes",
+      "fdcId": "168482",
+      "category": "Vegetables",
+      "form": "Raw",
+      "dietProfile": "vegan",
+      "foodGroup": "Starchy",
+      "aliases": [
+        "sweet potato"
+      ]
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "fdcId": "168538",
+      "category": "Vegetables",
+      "form": "Raw",
+      "dietProfile": "vegan",
+      "foodGroup": "Starchy",
+      "aliases": [
+        "sweetcorn",
+        "sweet corn"
+      ]
+    },
+    {
+      "id": "frozen-mixed-vegetables",
+      "name": "Frozen mixed vegetables",
+      "fdcId": "170471",
+      "category": "Vegetables",
+      "form": "Frozen · cook before eating",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "mixed veg",
+        "frozen veg"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "frozen-peas",
+      "name": "Frozen peas",
+      "fdcId": "170016",
+      "category": "Vegetables",
+      "form": "Frozen · cook before eating",
+      "dietProfile": "vegan",
+      "foodGroup": "Starchy",
+      "aliases": [
+        "peas",
+        "green peas"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "frozen-broccoli",
+      "name": "Frozen broccoli",
+      "fdcId": "169968",
+      "category": "Vegetables",
+      "form": "Frozen · cook before eating",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "broccoli florets"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "frozen-spinach",
+      "name": "Frozen spinach",
+      "fdcId": "169287",
+      "category": "Vegetables",
+      "form": "Frozen · cook before eating",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "spinach"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "canned-tomatoes",
+      "name": "Canned tomatoes",
+      "fdcId": "170051",
+      "category": "Pantry",
+      "form": "Canned · contents as sold",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "tinned tomatoes",
+        "diced tomatoes"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "crushed-tomatoes",
+      "name": "Crushed tomatoes",
+      "fdcId": "170501",
+      "category": "Pantry",
+      "form": "Canned · contents as sold",
+      "dietProfile": "vegan",
+      "foodGroup": "Vegetable",
+      "aliases": [
+        "tomatoes",
+        "passata"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "olive-oil",
+      "name": "Olive oil",
+      "fdcId": "171413",
+      "category": "Pantry",
+      "form": "Ready to use",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "cooking oil"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "canola-oil",
+      "name": "Canola oil",
+      "fdcId": "172336",
+      "category": "Pantry",
+      "form": "Ready to use",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "vegetable oil",
+        "cooking oil"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "fdcId": "169655",
+      "category": "Pantry",
+      "form": "Ready to use",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "white sugar",
+        "granulated sugar"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "fdcId": "171009",
+      "category": "Pantry",
+      "form": "Ready to use",
+      "dietProfile": "eggs",
+      "foodGroup": "Other",
+      "aliases": [
+        "mayo"
+      ],
+      "ediblePercent": 100
+    },
+    {
+      "id": "pasta-sauce",
+      "name": "Pasta sauce",
+      "fdcId": "171192",
+      "category": "Pantry",
+      "form": "Ready to use",
+      "dietProfile": "unknown",
+      "foodGroup": "Other",
+      "aliases": [
+        "marinara",
+        "spaghetti sauce",
+        "tomato sauce"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic marinara sauce. Check your product ingredients for dietary filters."
+    },
+    {
+      "id": "vanilla-ice-cream",
+      "name": "Vanilla ice cream",
+      "fdcId": "167575",
+      "category": "Snacks & treats",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Other",
+      "aliases": [
+        "ice cream",
+        "icecream"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic product reference. Check the package for brand-specific nutrition and ingredients."
+    },
+    {
+      "id": "chocolate-ice-cream",
+      "name": "Chocolate ice cream",
+      "fdcId": "168809",
+      "category": "Snacks & treats",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Other",
+      "aliases": [
+        "ice cream",
+        "icecream"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic product reference. Check the package for brand-specific nutrition and ingredients."
+    },
+    {
+      "id": "milk-chocolate",
+      "name": "Milk chocolate",
+      "fdcId": "167587",
+      "category": "Snacks & treats",
+      "form": "Ready to eat",
+      "dietProfile": "dairy",
+      "foodGroup": "Other",
+      "aliases": [
+        "chocolate",
+        "chocolate bar"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic product reference. Check the package for brand-specific nutrition and ingredients."
+    },
+    {
+      "id": "potato-chips",
+      "name": "Potato chips",
+      "fdcId": "169677",
+      "category": "Snacks & treats",
+      "form": "Ready to eat",
+      "dietProfile": "vegan",
+      "foodGroup": "Other",
+      "aliases": [
+        "chips",
+        "crisps",
+        "plain chips"
+      ],
+      "ediblePercent": 100,
+      "referenceNote": "Generic product reference. Check the package for brand-specific nutrition and ingredients."
+    }
+  ]
+}

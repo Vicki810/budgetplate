@@ -1,0 +1,1 @@
+self.onmessage=async e=>{try{const {optimize}=await import('./model.mjs');self.postMessage(optimize(e.data.foods,e.data.settings));}catch(err){self.postMessage({status:'error',message:String(err.message)});}};
